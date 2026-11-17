@@ -1,0 +1,9 @@
+{
+  "name": "pocket-forge-makefun",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": { "start": "node main.ts", "test": "node --test test/*.test.ts" },
+  "engines": { "node": ">=22" }
+}
